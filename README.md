@@ -17,3 +17,8 @@ Voici les étapes de l'algorithme utilisé dans la fonction de hashage créer :
    - **Remplie** (avec des espaces) si elle est trop courte.
 
 En combinant ces étapes, l’algorithme produit une chaîne de hachage de taille fixe, unique pour chaque entrée différente, tout en étant déterministe pour une même entrée.
+## Résultats : 
+'Hello World!' hash : 994}4PYSXKL4    
+'Hello World' hash : 44SL}94XP9K 
+## Conclusion 
+En utilisons ma méthode it devient possible d'obtenir un hash tellement différent à cause d'une seul valeur
